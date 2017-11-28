@@ -1,0 +1,25 @@
+#  luna_pinyin.sogouexpress.dict.yaml    
+---
+name: luna_pinyin.sogouexpress 
+version: "2017.11.28" 
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+匯通	hui tong	1
+加運美	jia yun mei	1
+聯邦快遞	lian bang kuai di	1
+全球特快專遞	quan qiu te kuai zhuan di	1
+全一快遞	quan yi kuai di	1
+申通	shen tong	1
+順豐	shun feng	1
+速爾	su er	1
+天地物流	tian di wu liu	1
+天天	tian tian	1
+郵寶	you bao	1
+圓通	yuan tong	1
+韻達	yun da	1
+宅急送	zhai ji song	1
+中城快遞	zhong cheng kuai di	1
+中鐵快運	zhong tie kuai yun	1
+中通	zhong tong	1
